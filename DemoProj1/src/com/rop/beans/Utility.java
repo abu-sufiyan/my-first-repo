@@ -22,4 +22,9 @@ public class Utility {
 	public void m4() {
 		System.out.println("m4 method done");
 	}
+	
+	public void m3() {
+//		incomplete method
+		System.out.println("m3 method now completed.");
+	}
 }
